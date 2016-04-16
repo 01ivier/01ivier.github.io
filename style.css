@@ -1,0 +1,20 @@
+#tableau {
+  margin: 10px auto;
+  width: 1281px;
+  height: 480px;
+  border: 1px solid black;
+}
+
+.GUI {
+  width: 400px;
+  margin: 0px auto;
+  font-size: 0;
+}
+
+input {
+  display: inline;
+  width: 400px;
+  height: 27px;
+}
+
+
